@@ -51,7 +51,7 @@ SellerG: Real Estate Agent
 
 Date: Date sold
 
-Distance: Distance from CBD in Kilometres
+Distance: Distance from Melbourne's Central Business District (CBD) in Kilometres
 
 Regionname: General Region (West, North West, North, North east …etc)
 
